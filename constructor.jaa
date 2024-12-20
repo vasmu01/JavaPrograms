@@ -1,0 +1,24 @@
+import java.util.Scanner;
+ class Circle{
+     
+      Scanner Area=new Scanner (System.in); 
+     double A= Area.nextInt();
+     float pie=3.15;
+    
+      //parametrized constructor
+     Circle(double A,float pie){
+         area=a;
+         pie=p;
+     }
+     
+ }
+
+public class const
+{
+	public static void main(String[] args) {
+	    Scanner Area=new Scanner (System.in); 
+	    
+		System.out.println("Hello World");
+	}
+}
+
